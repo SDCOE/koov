@@ -17,8 +17,8 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
-        "isRtl": false
+        "isScrollToTopButton": true,
+        "isRtl": true
       }
     },
     "path": "@PROJECT_PATH@",
@@ -32,7 +32,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 19,
+    "uniqCompNum": 27,
     "versionPublish": "4.12.3"
   },
   "pages": {
@@ -40,7 +40,7 @@
       "settings": {
         "main": true,
         "title": "#innovateSD | SDCOE & CFF + Sony KOOV STEAM Teacher Academy ",
-        "meta_descr": "",
+        "meta_descr": "In partnership with Sony Electronics & the Classroom of the Future Foundation, the San Diego County Office of Education is excited to offer this FREE learning opportunity to all teachers throughout San Diego County. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""

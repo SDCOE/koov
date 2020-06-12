@@ -520,8 +520,12 @@ section.form .container {
 #content5-8 .lead {
   color: #fff;
 }
+#content5-8 .mbr-section-title {
+  text-align: right;
+}
 #msg-box2-a .mbr-section-title {
   color: #fff;
+  text-align: right;
 }
 #msg-box2-a .mbr-section-subtitle {
   color: #a0a0a0;

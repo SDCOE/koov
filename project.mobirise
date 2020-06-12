@@ -33,7 +33,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 27,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -108,14 +109,14 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-4\">WHO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-8\">WHAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-a\">WHERE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\">WHEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-h\">WHY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.google.com\" target=\"_blank\">SIGN UP</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box3-4\">WHO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-8\">WHAT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-a\">WHERE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-f\">WHEN</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-h\">WHY</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.innovatesd.org\" target=\"_blank\">SIGN UP</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-secondary-reverse-499x128.png",
               "height": 128,
               "alt": "SDCOE Logo",
-              "link": "index.html",
+              "link": "#top",
               "title": "SDCOE Logo",
               "linkInNewWindow": false
             },
@@ -125,7 +126,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">#innovateSD</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">innovateSD#</a>",
           "_tags": [
             "Theme"
           ],
@@ -158,7 +159,7 @@
           },
           "title": "Sony KOOV<br>STEAM Academy",
           "text": "In partnership with <a href=\"https://direct.sony.com/\" target=\"_blank\">Sony Electronics</a> &amp; the <a href=\"http://www.classroomofthefuture.org/\" target=\"_blank\">Classroom of the Future Foundation</a>, the San Diego County Office of Education is excited to offer this FREE learning opportunity to all teachers throughout San Diego County.&nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.innovatesd.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a>",
           "_tags": [
             "Theme"
           ],
@@ -191,12 +192,12 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "WHO CAN PARTICIPATE?",
+          "title": "?WHO CAN PARTICIPATE",
           "text": "<p>The Sony KOOV STEAM Teacher Academy is FREE &amp; open to all teachers throughout San Diego County through our partnership with Sony Electronics &amp; the Classroom of the Future Foundation. We encourage&nbsp;<span style=\"font-size: 1.07rem;\">educators who are considering robotics/coding in the Fall - virtually, blended, or in-person to sign up.&nbsp;</span></p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.google.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://www.innovatesd.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP NOW</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-4"
         },
@@ -204,6 +205,9 @@
           "_styles": {
             ".mbr-section-title, .lead": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "right"
             }
           },
           "_params": {
@@ -224,7 +228,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "WHAT IS KOOV?",
+          "title": "?WHAT IS KOOV&nbsp;",
           "caption": "<p>All participants will receive a FREE KOOV trial kit to use in the classroom. KOOV is the all-in-one coding, robotics and design-kit that combines digital coding with physical building to teach the next generation of problem-solvers and innovators. To learn more, please visit <a href=\"https://direct.sony.com/koov-kits/\" target=\"_blank\">Sony's KOOV Website</a></p>",
           "_tags": [
             "Theme"
@@ -235,7 +239,8 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#fff",
+              "text-align": "right"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
@@ -261,9 +266,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "WHERE IS THIS BEING HELD?",
+          "title": "?WHERE IS THIS HELD",
           "text": "All sessions will be held online through Sony's partnership with <a href=\"https://www.nyscate.org/\" target=\"_blank\">NYSCATE</a>. During the one-day professional learning experience, attendees will participate in a virtual session and gain a working knowledge of robotics and coding. Additionally, participants will identify the possibilities and benefits of using Sony KOOV in their programs – both in classroom and virtually.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SIGN UP NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.innovatesd.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP NOW</a>",
           "_tags": [
             "Theme"
           ],
@@ -285,8 +290,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "WHEN IS THE ACADEMY?",
-          "meta": "Dates Available:<br><br>June 23 | 9am - 3pm PST<br>July 8 | 12pm - 6pm PST<br>July 11 | 9am - 3pm PST<br>July 13 | 9am - 3pm PST<br>July 20 | 9am - 3pm PST<br>July 22 | 12pm - 6pm PST<br>",
+          "title": "?WHEN IS IT",
+          "meta": "DATES AVAILABLE<br><br>June 23 | 9am - 3pm PST<br>July 8 | 12pm - 6pm PST<br>July 11 | 9am - 3pm PST<br>July 13 | 9am - 3pm PST<br>July 20 | 9am - 3pm PST<br>July 22 | 12pm - 6pm PST<br>",
           "_tags": [
             "Theme"
           ],
@@ -317,7 +322,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "WHY IS THIS BEING OFFERED?",
+          "title": "?WHY IS THIS OFFERED",
           "caption": "<p>The San Diego County Office of Education (SDCOE) is dedicated to increasing youths’ experience with Science, Technology, Engineering, Arts, and Math (STEAM). Educators can discover new ways to empower students to develop analytical thinking, creativity, collaboration, and problem-solving skills, while preparing them for the STEAM focused jobs of tomorrow.</p>",
           "_tags": [
             "Theme"

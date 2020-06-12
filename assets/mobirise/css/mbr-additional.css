@@ -512,6 +512,9 @@ section.form .container {
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header4-1 .mbr-section-lead {
+  text-align: right;
+}
 #msg-box3-4 .mbr-section-title,
 #msg-box3-4 .lead {
   color: #000;

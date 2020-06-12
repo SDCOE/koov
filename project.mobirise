@@ -18,7 +18,7 @@
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
-        "isRtl": true
+        "isRtl": false
       }
     },
     "path": "@PROJECT_PATH@",
@@ -126,7 +126,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">innovateSD#</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">#innovateSD</a>",
           "_tags": [
             "Theme"
           ],
@@ -158,13 +158,18 @@
             "overlayOpacity": 0.5
           },
           "title": "Sony KOOV<br>STEAM Academy",
-          "text": "In partnership with <a href=\"https://direct.sony.com/\" target=\"_blank\">Sony Electronics</a> &amp; the <a href=\"http://www.classroomofthefuture.org/\" target=\"_blank\">Classroom of the Future Foundation</a>, the San Diego County Office of Education is excited to offer this FREE learning opportunity to all teachers throughout San Diego County.&nbsp;",
+          "text": "In partnership with <a href=\"https://direct.sony.com/\" target=\"_blank\">Sony Electronics</a> &amp; the <a href=\"http://www.classroomofthefuture.org/\" target=\"_blank\">Classroom of the Future Foundation</a>, the <a href=\"https://www.sdcoe.net/\" target=\"_blank\">San Diego County Office of Education</a> is excited to offer this FREE learning opportunity to all teachers throughout San Diego County",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://www.innovatesd.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-1"
+          "_anchor": "header4-1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_inherit": "msg-box8",
@@ -192,7 +197,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "?WHO CAN PARTICIPATE",
+          "title": "WHO CAN PARTICIPATE?",
           "text": "<p>The Sony KOOV STEAM Teacher Academy is FREE &amp; open to all teachers throughout San Diego County through our partnership with Sony Electronics &amp; the Classroom of the Future Foundation. We encourage&nbsp;<span style=\"font-size: 1.07rem;\">educators who are considering robotics/coding in the Fall - virtually, blended, or in-person to sign up.&nbsp;</span></p>",
           "_tags": [
             "Theme"
@@ -228,7 +233,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "?WHAT IS KOOV&nbsp;",
+          "title": "WHAT IS KOOV?&nbsp;",
           "caption": "<p>All participants will receive a FREE KOOV trial kit to use in the classroom. KOOV is the all-in-one coding, robotics and design-kit that combines digital coding with physical building to teach the next generation of problem-solvers and innovators. To learn more, please visit <a href=\"https://direct.sony.com/koov-kits/\" target=\"_blank\">Sony's KOOV Website</a></p>",
           "_tags": [
             "Theme"
@@ -266,7 +271,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "?WHERE IS THIS HELD",
+          "title": "WHERE IS THIS HELD?",
           "text": "All sessions will be held online through Sony's partnership with <a href=\"https://www.nyscate.org/\" target=\"_blank\">NYSCATE</a>. During the one-day professional learning experience, attendees will participate in a virtual session and gain a working knowledge of robotics and coding. Additionally, participants will identify the possibilities and benefits of using Sony KOOV in their programs – both in classroom and virtually.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.innovatesd.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SIGN UP NOW</a>",
           "_tags": [
@@ -290,8 +295,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "?WHEN IS IT",
-          "meta": "DATES AVAILABLE<br><br>June 23 | 9am - 3pm PST<br>July 8 | 12pm - 6pm PST<br>July 11 | 9am - 3pm PST<br>July 13 | 9am - 3pm PST<br>July 20 | 9am - 3pm PST<br>July 22 | 12pm - 6pm PST<br>",
+          "title": "WHEN IS IT?",
+          "meta": "DATES AVAILABLE:<br><br>June 23 | 9am - 3pm PST<br>July 8 | 12pm - 6pm PST<br>July 11 | 9am - 3pm PST<br>July 13 | 9am - 3pm PST<br>July 20 | 9am - 3pm PST<br>July 22 | 12pm - 6pm PST<br>",
           "_tags": [
             "Theme"
           ],
@@ -322,7 +327,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "?WHY IS THIS OFFERED",
+          "title": "WHY IS THIS OFFERED?",
           "caption": "<p>The San Diego County Office of Education (SDCOE) is dedicated to increasing youths’ experience with Science, Technology, Engineering, Arts, and Math (STEAM). Educators can discover new ways to empower students to develop analytical thinking, creativity, collaboration, and problem-solving skills, while preparing them for the STEAM focused jobs of tomorrow.</p>",
           "_tags": [
             "Theme"

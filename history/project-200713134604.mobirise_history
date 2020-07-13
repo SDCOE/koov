@@ -19,8 +19,7 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
-      },
-      "additionalSetColors": []
+      }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.3",
@@ -287,8 +286,7 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
-              "text-align": "center",
-              "color": "#000000"
+              "text-align": "center"
             }
           },
           "_params": {
@@ -298,7 +296,7 @@
             "bgColor": "#fff"
           },
           "title": "WHEN IS IT?",
-          "meta": "<br><span style=\"font-style: normal;\">DATES AVAILABLE:<br><br>Mon, July 13, 9 am – 3 pm<br>Mon, July 20,  9 am – 3 pm<br>Wed, July 22, 12 – 6 pm   Cancelled<br>Tues, Aug 11, 9 am – 3 pm (NEW!)<br>Tues, Aug 18, 9 am – 3 pm (NEW!)</span><br><span style=\"font-style: normal;\"><br></span><br>",
+          "meta": "DATES AVAILABLE:<br><br>June 23 | 9am - 3pm PST<br>July 8 | 12pm - 6pm PST<br>July 11 | 9am - 3pm PST<br>July 13 | 9am - 3pm PST<br>July 20 | 9am - 3pm PST<br>July 22 | 12pm - 6pm PST<br>",
           "_tags": [
             "Theme"
           ],
